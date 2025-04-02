@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Bommu Sujeeth Kumar**  
-🔒 **Cybersecurity Analyst** | ☁️ **Cloud Security Specialist** | 💻 **Final-Year CSE Student**
+🔒 **Cybersecurity Analyst** | ☁️ **Cloud Security Specialist** | **MERN Stack Developer** | 💻 **Final-Year CSE Student**
 
 ## ✨ About Me  
 🎓 Final-year Computer Science Engineering student specializing in **Cybersecurity**, **AWS Cloud**, and **Docker**.  
